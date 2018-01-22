@@ -1,0 +1,26 @@
+let data = `
+
+name: inverse
+layout: true
+class: center, middle, inverse
+---
+
+# Here's a template!
+## by Ming Rui
+
+---
+layout: false
+
+.left-column[
+## Left col
+]
+.right-column[
+Right col
+]
+
+---
+template: inverse
+
+## Here's how to make title slides
+
+`
